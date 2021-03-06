@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+firebase_messaging=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-6.0.16\\
+flutter_plugin_android_lifecycle=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
+fluttertoast=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-4.0.1\\
+google_maps_flutter=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-0.5.29\\
+location=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location-3.0.2\\
+location_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location_web-1.0.1\\
+path_provider=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.27\\
+path_provider_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+8\\
+path_provider_windows=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.5\\
+screen=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\screen-0.0.5\\
+shared_preferences=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.8\\
+shared_preferences_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+4\\
+shared_preferences_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+11\\
+shared_preferences_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+sqflite=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-1.3.2+4\\
+url_launcher=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher-5.5.0\\
+url_launcher_linux=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_linux-0.0.1+4\\
+url_launcher_macos=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_macos-0.0.1+9\\
+url_launcher_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_web-0.1.5+3\\
+video_player=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player-0.10.12+5\\
+video_player_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_web-0.1.4+1\\
+wakelock=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\wakelock-0.1.4+2\\
+webview_flutter=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\webview_flutter-0.3.24\\
